@@ -1,2 +1,2 @@
 # PythonProject.py
-Python  mini Project
+SCIENTIFIC CALCULATOR USING Python 
